@@ -1,6 +1,6 @@
 # 👋 Hi, I'm José Gaspari  
 
-🚀 ** iOS Engineer** | Swift • SwiftUI • Clean Architecture • Testing & CI/CD  
+🚀 **iOS Engineer** | Swift • SwiftUI • Clean Architecture • Testing & CI/CD  
 
 ![Swift](https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?logo=xcode&logoColor=white)
