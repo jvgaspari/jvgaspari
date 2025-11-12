@@ -63,7 +63,7 @@ Implements **feature toggles**, **SPM modularization**, and **CI/CD with GitHub 
 
 ## 📚 Currently Exploring  
 - 🎙️ **On-device AI for iOS** — integrating **TTS (Text-to-Speech)**, **STT (Speech-to-Text)** and **LLM-driven** features for real-time voice interaction
-- 🧠 Exploring **Core ML**, **Create ML**, and **whisper.cpp** for local inference and offline voice processing  
+- 🧠 Exploring **Core ML** for conversational and voice-based applications
 - 🔊 Researching **audio pipelines** and **real-time speech analysis** to enable conversational and educational apps  
 
 ---
